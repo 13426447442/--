@@ -1,0 +1,5 @@
+{
+  "name": "批量反推提示词库",
+  "description": "基于 Gemini API 的 AI 绘画提示词批量反推灵感库，支持图片上传、自动分析与多维筛选管理。",
+  "requestFramePermissions": []
+}
